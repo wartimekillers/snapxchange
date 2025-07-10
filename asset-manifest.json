@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/snapxchange/static/css/main.f855e6bc.css",
-    "main.js": "/snapxchange/static/js/main.a660e0ef.js",
-    "static/js/453.3ade14a0.chunk.js": "/snapxchange/static/js/453.3ade14a0.chunk.js",
-    "static/media/logo.svg": "/snapxchange/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/snapxchange/static/css/main.e89bf3cd.css",
+    "main.js": "/snapxchange/static/js/main.4c18b73c.js",
+    "static/js/453.1beb6410.chunk.js": "/snapxchange/static/js/453.1beb6410.chunk.js",
     "index.html": "/snapxchange/index.html",
-    "main.f855e6bc.css.map": "/snapxchange/static/css/main.f855e6bc.css.map",
-    "main.a660e0ef.js.map": "/snapxchange/static/js/main.a660e0ef.js.map",
-    "453.3ade14a0.chunk.js.map": "/snapxchange/static/js/453.3ade14a0.chunk.js.map"
+    "main.e89bf3cd.css.map": "/snapxchange/static/css/main.e89bf3cd.css.map",
+    "main.4c18b73c.js.map": "/snapxchange/static/js/main.4c18b73c.js.map",
+    "453.1beb6410.chunk.js.map": "/snapxchange/static/js/453.1beb6410.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a660e0ef.js"
+    "static/css/main.e89bf3cd.css",
+    "static/js/main.4c18b73c.js"
   ]
 }
